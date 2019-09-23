@@ -1,2 +1,6 @@
 # hello-world
-my store. 
+my store.
+
+Hello everyone!
+
+Amira here. I am new in coding.
